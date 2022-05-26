@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.heading{
+    font-size: 50px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 80px;
+    text-align: center;
+}
+.container {
+display: flex;
+
+}
+
+
+.container div {
+    border: 1px #ccc solid;
+    padding: 10 px;
+    }
+    .box1{
+        
+    }
+    .box2{
+        
+    }
+    .box3{
+        
+    }
+    .container2{
+        display: flex;
+    }
+   
+    .container2 div {
+        border: 1px #ccc solid;
+        
+        }
+        
+            .box4{
+        
+            }
+   
